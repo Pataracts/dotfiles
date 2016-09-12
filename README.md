@@ -1,2 +1,3 @@
 # dotfiles
-I like cookies
+
+My dotfiles repository for Archlinux/i3/Gnome3.
